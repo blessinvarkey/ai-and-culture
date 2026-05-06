@@ -1,4 +1,4 @@
-# Culture x AI Daily
+# AI and Culture
 
 A daily log of papers and news posted to [@blessinvarkey](https://x.com/blessinvarkey) about AI across culture, art, museums, galleries, cultural heritage, creative tools, and HCI.
 
