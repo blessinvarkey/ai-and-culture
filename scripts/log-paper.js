@@ -51,23 +51,11 @@ function renderReadme(entries) {
     })
     .join("\n");
 
-  return `# Culture x AI Daily
-
-A daily log of papers and news posted to [@blessinvarkey](https://x.com/blessinvarkey) about AI across culture, art, museums, galleries, cultural heritage, creative tools, and HCI.
-
-Each entry follows a simple editorial rule:
-
-1. What the paper or article actually studied, proposed, or did.
-2. The main finding or outcome in plain language.
-3. Source and tweet links.
-
-## Latest Posts
+  return `# AI and Culture
 
 ${latest || "No entries yet."}
 
-## Data
-
-- [\`data/posts.jsonl\`](data/posts.jsonl): one JSON object per published tweet.
+A daily log of papers and news posted to [@blessinvarkey](https://x.com/blessinvarkey) about AI across culture, art, museums, galleries, cultural heritage, creative tools, and HCI.
 `;
 }
 
