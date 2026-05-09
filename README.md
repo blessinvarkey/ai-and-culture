@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-05-09: **Who cares about artificial intelligence? Human and artificial voices in audiobooks** | [Source](https://doi.org/10.1016/j.chbr.2026.101068) | [Tweet](https://x.com/blessinvarkey/status/2053055362081906734)
+  A new paper compared audiobook excerpts read by AI-generated voices and professional human narrators. Listeners rated them almost the same, suggesting synthetic voices can now function as viable substitutes for audiobook narration.
+
 - 2026-05-08: **Visual rendering technology of intangible cultural heritage based on CAM and neural super-sampling** | [Source](https://doi.org/10.1016/j.sasc.2026.200495) | [Tweet](https://x.com/blessinvarkey/status/2052756139344089294)
   A new paper uses CAM heatmaps to guide neural super-sampling for intangible cultural heritage rendering. It directs compute to culturally important image regions, making immersive visuals clearer and more interpretable.
 
