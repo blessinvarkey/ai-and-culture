@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-05-11: **Beeple. Regular Animals** | [Source](https://www.smb.museum/en/exhibitions/detail/beeple-regular-animals/) | [Tweet](https://x.com/blessinvarkey/status/2053770026180804822)
+  Neue Nationalgalerie presented Beeple's Regular Animals, an AI-and-robotics installation. Autonomous robots captured the gallery, then AI turned views into printed images shaped by each figure's worldview.
+
 - 2026-05-09: **Who cares about artificial intelligence? Human and artificial voices in audiobooks** | [Source](https://doi.org/10.1016/j.chbr.2026.101068) | [Tweet](https://x.com/blessinvarkey/status/2053055362081906734)
   A new paper compared audiobook excerpts read by AI-generated voices and professional human narrators. Listeners rated them almost the same, suggesting synthetic voices can now function as viable substitutes for audiobook narration.
 
