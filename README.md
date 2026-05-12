@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-05-12: **SmartTracer: An AI-assisted interactive framework for extracting editable strokes from complex line art** | [Source](https://doi.org/10.1016/j.cagd.2026.102568) | [Tweet](https://x.com/blessinvarkey/status/2054133642591646146)
+  A new paper introduces SmartTracer, an AI-assisted tool for extracting editable strokes from complex line art. It lets artists guide or refine the result, recovering cleaner stroke masks than existing methods and commercial software.
+
 - 2026-05-11: **Beeple. Regular Animals** | [Source](https://www.smb.museum/en/exhibitions/detail/beeple-regular-animals/) | [Tweet](https://x.com/blessinvarkey/status/2053770026180804822)
   Neue Nationalgalerie presented Beeple's Regular Animals, an AI-and-robotics installation. Autonomous robots captured the gallery, then AI turned views into printed images shaped by each figure's worldview.
 
