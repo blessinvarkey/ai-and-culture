@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-05-13: **Art education in the age of AI: Exploring ethical practices and pedagogical approaches in Chinese visual arts education** | [Source](https://doi.org/10.1016/j.actpsy.2026.106482) | [Tweet](https://x.com/blessinvarkey/status/2054495403270443386)
+  A new paper studied how Chinese visual arts students use AI tools in art education. It found needs differ by gender, degree level, and institution type, arguing AI teaching strategies should be tailored, not one-size-fits-all.
+
 - 2026-05-12: **SmartTracer: An AI-assisted interactive framework for extracting editable strokes from complex line art** | [Source](https://doi.org/10.1016/j.cagd.2026.102568) | [Tweet](https://x.com/blessinvarkey/status/2054133642591646146)
   A new paper introduces SmartTracer, an AI-assisted tool for extracting editable strokes from complex line art. It lets artists guide or refine the result, recovering cleaner stroke masks than existing methods and commercial software.
 
