@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-05-16: **DATALAND, the world's first Museum of AI Arts, opens June 20, 2026** | [Source](https://www.arup.com/news/dataland-the-worlds-first-museum-of-ai-arts-opens-june-20-2026/) | [Tweet](https://x.com/blessinvarkey/status/2055714151037870112)
+  Arup announced DATALAND will open June 20 as a Museum of AI Arts in downtown LA. The project turns generative, multi-sensory artworks into a dedicated museum environment.
+
 - 2026-05-13: **Art education in the age of AI: Exploring ethical practices and pedagogical approaches in Chinese visual arts education** | [Source](https://doi.org/10.1016/j.actpsy.2026.106482) | [Tweet](https://x.com/blessinvarkey/status/2054495403270443386)
   A new paper studied how Chinese visual arts students use AI tools in art education. It found needs differ by gender, degree level, and institution type, arguing AI teaching strategies should be tailored, not one-size-fits-all.
 
