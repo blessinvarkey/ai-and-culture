@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-05-26: **Sustainability paths for artificial intelligence through heritage digital twin reconstruction** | [Source](https://doi.org/10.1038/s41598-026-54543-8) | [Tweet](https://x.com/blessinvarkey/status/2059238530866675972)
+  A new Scientific Reports paper proposes DTH-AI, a stakeholder-based framework for AI-assisted restoration and MR digital heritage. It maps restoration, heritage characterization, digitization, and design into a sustainability pathway.
+
 - 2026-05-16: **DATALAND, the world's first Museum of AI Arts, opens June 20, 2026** | [Source](https://www.arup.com/news/dataland-the-worlds-first-museum-of-ai-arts-opens-june-20-2026/) | [Tweet](https://x.com/blessinvarkey/status/2055714151037870112)
   Arup announced DATALAND will open June 20 as a Museum of AI Arts in downtown LA. The project turns generative, multi-sensory artworks into a dedicated museum environment.
 
