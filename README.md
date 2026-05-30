@@ -1,5 +1,11 @@
 # AI and Culture
 
+- 2026-05-30: **Understanding the key factors influencing continued use intention toward intangible cultural heritage (ICH)-themed virtual reality games** | [Source](https://doi.org/10.3389/frvir.2026.1833878) | [Tweet](https://x.com/blessinvarkey/status/2060655367844143360)
+  A new Frontiers paper studied continued use of an intangible-cultural-heritage VR game about the Qinhuai Lantern Festival. It found sensory, emotional, and cultural experience all shape users' attitudes and intention to keep playing.
+
+- 2026-05-27: **Leveraging artificial intelligence for creativity-driven innovation** | [Source](https://cordis.europa.eu/programme/id/HORIZON_HORIZON-CL2-2025-01-HERITAGE-04) | [Tweet](https://x.com/blessinvarkey/status/2059568743429361728)
+  A European Commission call funds AI integration in cultural and creative sectors through Horizon Europe. It prioritizes practical adoption: tools, pilots, guidance, and training for cultural work.
+
 - 2026-05-26: **Sustainability paths for artificial intelligence through heritage digital twin reconstruction** | [Source](https://doi.org/10.1038/s41598-026-54543-8) | [Tweet](https://x.com/blessinvarkey/status/2059238530866675972)
   A new Scientific Reports paper proposes DTH-AI, a stakeholder-based framework for AI-assisted restoration and MR digital heritage. It maps restoration, heritage characterization, digitization, and design into a sustainability pathway.
 
