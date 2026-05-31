@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-05-31: **HybridWeaveNet: deep cultural pattern recognition for Indian handloom heritage fabrics** | [Source](https://doi.org/10.3389/frai.2026.1809586) | [Tweet](https://x.com/blessinvarkey/status/2061065168315199788)
+  A new Frontiers paper introduces HybridWeaveNet for recognizing Indian handloom heritage fabrics. It combines EfficientNetV2 with dual attention, reaching 91% performance and using Grad-CAM to show focus on culturally related motifs.
+
 - 2026-05-30: **Understanding the key factors influencing continued use intention toward intangible cultural heritage (ICH)-themed virtual reality games** | [Source](https://doi.org/10.3389/frvir.2026.1833878) | [Tweet](https://x.com/blessinvarkey/status/2060655367844143360)
   A new Frontiers paper studied continued use of an intangible-cultural-heritage VR game about the Qinhuai Lantern Festival. It found sensory, emotional, and cultural experience all shape users' attitudes and intention to keep playing.
 
