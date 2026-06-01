@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-06-01: **Critical agency and hybrid cognition in digital art education: Human-AI co-creation with Stable Diffusion XL** | [Source](https://doi.org/10.1016/j.ssaho.2026.102781) | [Tweet](https://x.com/blessinvarkey/status/2061475741603344737)
+  A new paper studies Stable Diffusion XL in digital art classrooms using Gulf cultural heritage prompts. It found recurring errors in attire, historical period, and body forms, making verification literacy a core design skill.
+
 - 2026-05-31: **HybridWeaveNet: deep cultural pattern recognition for Indian handloom heritage fabrics** | [Source](https://doi.org/10.3389/frai.2026.1809586) | [Tweet](https://x.com/blessinvarkey/status/2061065168315199788)
   A new Frontiers paper introduces HybridWeaveNet for recognizing Indian handloom heritage fabrics. It combines EfficientNetV2 with dual attention, reaching 91% performance and using Grad-CAM to show focus on culturally related motifs.
 
