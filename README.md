@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-06-04: **AI-driven procedural content generation for user-tailored eXtended reality museum experiences** | [Source](https://doi.org/10.3389/frvir.2026.1788711) | [Tweet](https://x.com/blessinvarkey/status/2062399186944065598)
+  A new Frontiers paper introduces an AI-directed PCG framework for personalized XR in an industrial-heritage museum. Visitor profiles from telemetry aligned with self-reports, and heritage perception increased after the session.
+
 - 2026-06-01: **Critical agency and hybrid cognition in digital art education: Human-AI co-creation with Stable Diffusion XL** | [Source](https://doi.org/10.1016/j.ssaho.2026.102781) | [Tweet](https://x.com/blessinvarkey/status/2061475741603344737)
   A new paper studies Stable Diffusion XL in digital art classrooms using Gulf cultural heritage prompts. It found recurring errors in attire, historical period, and body forms, making verification literacy a core design skill.
 
