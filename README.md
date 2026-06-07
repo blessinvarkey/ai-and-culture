@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-06-07: **Multimodal dynamic knowledge graph and narrative generation for cross-media communication of shadow play culture** | [Source](https://doi.org/10.1016/j.rineng.2026.111325) | [Tweet](https://x.com/blessinvarkey/status/2063657101055148406)
+  A new paper builds a multimodal knowledge-graph system for Chinese shadow play narratives. It combines vision, text, pose, GANs, and blockchain to generate traceable stories with better user retention and cultural-symbol consistency.
+
 - 2026-06-04: **AI-driven procedural content generation for user-tailored eXtended reality museum experiences** | [Source](https://doi.org/10.3389/frvir.2026.1788711) | [Tweet](https://x.com/blessinvarkey/status/2062399186944065598)
   A new Frontiers paper introduces an AI-directed PCG framework for personalized XR in an industrial-heritage museum. Visitor profiles from telemetry aligned with self-reports, and heritage perception increased after the session.
 
