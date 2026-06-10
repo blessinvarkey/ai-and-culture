@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-06-10: **Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design** | [Source](https://arxiv.org/abs/2606.09041) | [Tweet](https://x.com/blessinvarkey/status/2064766766035984539)
+  A new arXiv paper reports on students building AI-enabled solutions for cultural heritage preservation and sustainable development. It proposes a culturally-aware AI education framework linking community learning, design, and computation.
+
 - 2026-06-07: **Multimodal dynamic knowledge graph and narrative generation for cross-media communication of shadow play culture** | [Source](https://doi.org/10.1016/j.rineng.2026.111325) | [Tweet](https://x.com/blessinvarkey/status/2063657101055148406)
   A new paper builds a multimodal knowledge-graph system for Chinese shadow play narratives. It combines vision, text, pose, GANs, and blockchain to generate traceable stories with better user retention and cultural-symbol consistency.
 
