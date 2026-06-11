@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-06-11: **AnimaSpark: A Feed-Forward Method for Animating Arbitrary 3D Objects** | [Source](https://arxiv.org/abs/2606.10988) | [Tweet](https://x.com/blessinvarkey/status/2065004461165285527)
+  A new arXiv paper introduces AnimaSpark, a feed-forward method for animating arbitrary 3D objects from static assets. It reports better text-motion alignment, motion quality, and efficiency than prior category-agnostic animation methods.
+
 - 2026-06-10: **Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design** | [Source](https://arxiv.org/abs/2606.09041) | [Tweet](https://x.com/blessinvarkey/status/2064766766035984539)
   A new arXiv paper reports on students building AI-enabled solutions for cultural heritage preservation and sustainable development. It proposes a culturally-aware AI education framework linking community learning, design, and computation.
 
