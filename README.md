@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-06-30: **The Human Creativity Benchmark** | [Source](https://arxiv.org/abs/2606.30561) | [Tweet](https://x.com/blessinvarkey/status/2071962255319806149)
+  A new arXiv paper introduces the Human Creativity Benchmark for evaluating AI in creative work. Across 15,000 professional judgments, it separates shared quality signals from genuine taste differences instead of collapsing both into one score.
+
 - 2026-06-11: **AnimaSpark: A Feed-Forward Method for Animating Arbitrary 3D Objects** | [Source](https://arxiv.org/abs/2606.10988) | [Tweet](https://x.com/blessinvarkey/status/2065004461165285527)
   A new arXiv paper introduces AnimaSpark, a feed-forward method for animating arbitrary 3D objects from static assets. It reports better text-motion alignment, motion quality, and efficiency than prior category-agnostic animation methods.
 
