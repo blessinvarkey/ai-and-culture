@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-07-02: **How LLMs See Creativity: Zero-Shot Scoring of Visual Creativity with Interpretable Reasoning** | [Source](https://arxiv.org/abs/2606.29672) | [Tweet](https://x.com/blessinvarkey/status/2072421113100177660)
+  A new arXiv paper tests whether multimodal LLMs can judge visual creativity without examples or fine-tuning. Across AI images and hand-drawn sketches, models aligned with human ratings, while their reasoning exposed what they weighed.
+
 - 2026-06-30: **The Human Creativity Benchmark** | [Source](https://arxiv.org/abs/2606.30561) | [Tweet](https://x.com/blessinvarkey/status/2071962255319806149)
   A new arXiv paper introduces the Human Creativity Benchmark for evaluating AI in creative work. Across 15,000 professional judgments, it separates shared quality signals from genuine taste differences instead of collapsing both into one score.
 
