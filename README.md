@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-07-08: **Rethinking Indic AI from a Lens of Cultural Heritage Preservation** | [Source](https://arxiv.org/abs/2607.06544) | [Tweet](https://x.com/blessinvarkey/status/2074816004681871375)
+  A new arXiv paper rethinks Indic AI through cultural heritage preservation. It argues that Indian languages encode cultural practices and worldviews, so foundation models need "Culture Sensing," not just better low-resource NLP coverage.
+
 - 2026-07-02: **How LLMs See Creativity: Zero-Shot Scoring of Visual Creativity with Interpretable Reasoning** | [Source](https://arxiv.org/abs/2606.29672) | [Tweet](https://x.com/blessinvarkey/status/2072421113100177660)
   A new arXiv paper tests whether multimodal LLMs can judge visual creativity without examples or fine-tuning. Across AI images and hand-drawn sketches, models aligned with human ratings, while their reasoning exposed what they weighed.
 
