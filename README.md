@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-07-12: **Evaluating Latent Diffusion Models for Ulos Motif Synthesis: A Generative AI Approach to Batak Cultural Heritage Design** | [Source](https://arxiv.org/abs/2607.06590) | [Tweet](https://x.com/blessinvarkey/status/2076219604410712304)
+  A new arXiv paper fine-tunes latent diffusion models to generate novel Ulos textile motifs from Batak cultural heritage. Protogen v3.4 outperformed Stable Diffusion v1.4, showing better fidelity, diversity, and alignment with real Ulos motifs.
+
 - 2026-07-08: **Rethinking Indic AI from a Lens of Cultural Heritage Preservation** | [Source](https://arxiv.org/abs/2607.06544) | [Tweet](https://x.com/blessinvarkey/status/2074816004681871375)
   A new arXiv paper rethinks Indic AI through cultural heritage preservation. It argues that Indian languages encode cultural practices and worldviews, so foundation models need "Culture Sensing," not just better low-resource NLP coverage.
 
