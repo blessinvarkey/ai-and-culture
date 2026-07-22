@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-07-23: **ArtLens Reimagined: The Intersection of Art, Technology, and Innovation** | [Source](https://clevelandart.org/exhibitions/artlens-reimagined) | [Tweet](https://x.com/blessinvarkey/status/2079999758261952744)
+  Cleveland Museum of Art relaunched ArtLens with AI-powered interactives for accessibility and collection engagement. Its models run locally and are trained on CMA artworks, avoiding external training material.
+
 - 2026-07-12: **Evaluating Latent Diffusion Models for Ulos Motif Synthesis: A Generative AI Approach to Batak Cultural Heritage Design** | [Source](https://arxiv.org/abs/2607.06590) | [Tweet](https://x.com/blessinvarkey/status/2076219604410712304)
   A new arXiv paper fine-tunes latent diffusion models to generate novel Ulos textile motifs from Batak cultural heritage. Protogen v3.4 outperformed Stable Diffusion v1.4, showing better fidelity, diversity, and alignment with real Ulos motifs.
 
