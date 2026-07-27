@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-07-27: **Hito Steyerl: Mechanical Kurds** | [Source](https://artdaily.com/v2/News/195509/) | [Tweet](https://x.com/blessinvarkey/status/2081633850896384063)
+  ArtDaily reported that Hito Steyerl's Mechanical Kurds opened at MACRO Rome, pairing 18th-century automaton histories with Amazon-era AI. The exhibition frames AI and image automation as systems that can hide human labor, resource extraction, and political violence behind claims of machine autonomy.
+
 - 2026-07-23: **ArtLens Reimagined: The Intersection of Art, Technology, and Innovation** | [Source](https://clevelandart.org/exhibitions/artlens-reimagined) | [Tweet](https://x.com/blessinvarkey/status/2079999758261952744)
   Cleveland Museum of Art relaunched ArtLens with AI-powered interactives for accessibility and collection engagement. Its models run locally and are trained on CMA artworks, avoiding external training material.
 
