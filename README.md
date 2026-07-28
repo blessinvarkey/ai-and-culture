@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-07-28: **Open Call - Artist residency in Reykjavík 2027, hosted by the National Gallery of Iceland in cooperation with Mystetskyi Arsenal, Vasulka Kitchen Brno, Nasjonal Museet Norge and LI-MA** | [Source](https://www.listasafn.is/en/art/news-vasulka-stofa/) | [Tweet](https://x.com/blessinvarkey/status/2082337454116487307)
+  Iceland's National Gallery opened a CUSP residency for artists using generative AI, sensors, software, and hybrid media. The program pairs artists with conservators so museums can preserve tech-dependent works as formats and systems age.
+
 - 2026-07-27: **Hito Steyerl: Mechanical Kurds** | [Source](https://artdaily.com/v2/News/195509/) | [Tweet](https://x.com/blessinvarkey/status/2081633850896384063)
   ArtDaily reported that Hito Steyerl's Mechanical Kurds opened at MACRO Rome, pairing 18th-century automaton histories with Amazon-era AI. The exhibition frames AI and image automation as systems that can hide human labor, resource extraction, and political violence behind claims of machine autonomy.
 
