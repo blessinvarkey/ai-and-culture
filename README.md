@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-08-11: **VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding** | [Source](https://arxiv.org/abs/2608.09698) | [Tweet](https://x.com/blessinvarkey/status/2087039170682519791)
+  A new UIST paper introduces VeriForge, an AI writing system that flags knowledge gaps in fiction drafts and gives source-anchored research cards. In a user study, writers found overlooked knowledge gaps, and expert raters judged resulting passages as better grounded.
+
 - 2026-07-28: **Open Call - Artist residency in Reykjavík 2027, hosted by the National Gallery of Iceland in cooperation with Mystetskyi Arsenal, Vasulka Kitchen Brno, Nasjonal Museet Norge and LI-MA** | [Source](https://www.listasafn.is/en/art/news-vasulka-stofa/) | [Tweet](https://x.com/blessinvarkey/status/2082337454116487307)
   Iceland's National Gallery opened a CUSP residency for artists using generative AI, sensors, software, and hybrid media. The program pairs artists with conservators so museums can preserve tech-dependent works as formats and systems age.
 
