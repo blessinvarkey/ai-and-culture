@@ -1,5 +1,8 @@
 # AI and Culture
 
+- 2026-08-12: **Measuring Cross-Cultural Style Diffusion Through Era Classification: US and Korean Popular Music** | [Source](https://arxiv.org/abs/2608.10980) | [Tweet](https://x.com/blessinvarkey/status/2087588125505949972)
+  A new ISMIR paper uses CNN era classifiers trained on Billboard songs to measure style diffusion into Korean pop charts. It finds Korean hits lagged US pop styles by four to five years in the 1960s-80s, then narrowed to two to three years from the 1990s.
+
 - 2026-08-11: **VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding** | [Source](https://arxiv.org/abs/2608.09698) | [Tweet](https://x.com/blessinvarkey/status/2087039170682519791)
   A new UIST paper introduces VeriForge, an AI writing system that flags knowledge gaps in fiction drafts and gives source-anchored research cards. In a user study, writers found overlooked knowledge gaps, and expert raters judged resulting passages as better grounded.
 
